@@ -26,6 +26,6 @@ Note: When the program is completely disabled, a small doll image appears on the
 
 Note: You can change the G key for the shield to another key in the code, but if you don't know how, use artificial intelligence to replace other hotkeys
 
-With respect to the Waruzen company, this code is designed for educational and creative purposes only
+With respect to the Activision company, this code is designed for educational and creative purposes only
 
 I hope that anyone can develop it better
