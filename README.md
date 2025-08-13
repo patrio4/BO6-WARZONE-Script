@@ -1,3 +1,10 @@
+Installation method
+First install the Ahk2 program (version 2)
+https://www.autohotkey.com/download/2.0/AutoHotkey_2.0.19_setup.exe
+And then you can run the exe file
+This script has no problem with antivirus and anti-cheat of most games
+
+Description and instructions for use:
 
 This script makes several different tasks easier for you in the game Warzone
 
