@@ -24,12 +24,18 @@ The entire program is activated and deactivated with the ctrl + right arrow key
 The recoil amount is adjusted with the control key + up and down arrows and its number is displayed at the top of the screen
 The recoil is temporarily activated and deactivated with the control key + left arrow key It is possible
 
-Note: When the program is completely disabled, a small doll image appears on the lower right side of the monitor, which means it is disabled, and when you enable it again, that image will be hidden
 
-Note: You can change the G key for the shield to another key in the code, but if you don't know how, use artificial intelligence to replace other hotkeys
 
-Note:When you open the chat environment with enter, the G key, which means the shield, is automatically stopped so that the letter G is not typed unnecessarily in your chat.
+Important points:
 
-With respect to the Activision company, this code is designed for educational and creative purposes only
+1- When the program is completely disabled, a small doll image appears on the lower right side of the monitor, which means it is disabled, and when you enable it again, that image will be hidden
+
+2-When the script program starts, it is disabled, but its icon is visible in the taskbar and you can enable and disable it whenever you want.
+
+3- You can change the G key for the shield to another key in the code, but if you don't know how, use artificial intelligence to replace other hotkeys
+
+4-When you open the chat environment with enter, the G key, which means the shield, is automatically stopped so that the letter G is not typed unnecessarily in your chat.
+
+This code is designed for educational and creative purposes only
 
 I hope that anyone can develop it better
