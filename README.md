@@ -1,3 +1,5 @@
+Just for PC
+
 Installation method 
 First install the Ahk2 program (version 2)
 
@@ -25,6 +27,8 @@ The recoil is temporarily activated and deactivated with the control key + left 
 Note: When the program is completely disabled, a small doll image appears on the lower right side of the monitor, which means it is disabled, and when you enable it again, that image will be hidden
 
 Note: You can change the G key for the shield to another key in the code, but if you don't know how, use artificial intelligence to replace other hotkeys
+
+Note:When you open the chat environment with enter, the G key, which means the shield, is automatically stopped so that the letter G is not typed unnecessarily in your chat.
 
 With respect to the Activision company, this code is designed for educational and creative purposes only
 
