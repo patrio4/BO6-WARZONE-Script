@@ -5,7 +5,7 @@ First install the Ahk2 program (version 2)
 
 https://www.autohotkey.com/download/2.0/AutoHotkey_2.0.19_setup.exe
 
-And then you can run the exe file
+And then you can run the BO6 Warzone AHK.exe 
 
 This script has no problem with antivirus and anti-cheat of most games
 
