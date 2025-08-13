@@ -1,4 +1,3 @@
-﻿
 #Requires AutoHotkey v2.0
 FileInstall "WarZoneAhk.png", "WarZoneAhk.png", 1  ; عدد 1 یعنی همیشه در EXE جاسازی شود
 ; --- اسپلش اسکرین ---
